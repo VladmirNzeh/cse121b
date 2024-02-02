@@ -7,7 +7,7 @@ let myProfile = {
         "Beans", "Plantain", "Potatoes", "Soya Beans", "Bean Cake", "Bannana", "Yoghurt", "Chocolate", "Egusi"
     ],
     hobbies: [
-        "Cooking", "Walking", "Coding", "Playing video games", "Travelling", "Reading", "Knacking"
+        "Cooking", "Walking", "Coding", "Playing video games", "Travelling", "Reading"
     ],
     placesLived: [
         {
