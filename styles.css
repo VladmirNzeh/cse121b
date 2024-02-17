@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Style the quote display container */
+#quote-container {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+/* Style the quote text */
+#quote-text {
+    font-size: 24px;
+    font-style: italic;
+    color: #333;
+}
+
+/* Style the author text */
+#author {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #555;
+}
